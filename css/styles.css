@@ -116,6 +116,7 @@ img {
 .header-contacts {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .header-contacts-link {
@@ -123,6 +124,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  align-items: center;
 }
 
 .header-contacts-link:hover,
