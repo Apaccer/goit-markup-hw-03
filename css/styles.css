@@ -231,7 +231,6 @@ img {
   width: calc((100% - 48px * 2) / 3);
 }
 .team-img {
-  margin-bottom: 32px;
 }
 .employee-name {
   color: var(--NAVY-BLUE, #2e2f42);
